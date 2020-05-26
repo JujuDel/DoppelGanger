@@ -83,17 +83,19 @@ for imgPath in allImgPaths:
         best_match_idx = np.argmin(face_distances)
         # If the closest is a match
         if matches[best_match_idx]:
-            # Here is the deppelganger!
+            # Here is the doppelganger!
             (filename, celeb_ID) = face_names[best_match_idx]
 ```
 
 ## 3. Results
 
-Below are the computed doppelganger with the given test set.
+Below are the computed doppelganger with the given input images.
 
 Input image | DoppelGanger
 :---:|:---:
 shashikant-pedwal.jpg | Amitabh Bachchan
-![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/shashikant-pedwal.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000102_00000547.JPEG)
+![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/shashikant-pedwal.jpg =x256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000102_00000547.JPEG)
 sofia-solares.jpg | Selena
-![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/sofia-solares.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00002238_00000655.JPEG)
+![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/sofia-solares.jpg =x256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00002238_00000655.JPEG)
+me.jpg | Jake Johnson
+![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/me.jpg =x256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000920_00000386.JPEG)
