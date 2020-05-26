@@ -94,6 +94,6 @@ Below are the computed doppelganger with the given test set.
 Input image | DoppelGanger
 :---:|:---:
 shashikant-pedwal.jpg | Amitabh Bachchan
-![](https://github.com/JujuDel/DoppelGanger/blob/master/data/images/test-images/shashikant-pedwal.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/data/images/celeb_mini/n00000102/n00000102_00000547.JPEG)
+![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/shashikant-pedwal.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000102_00000547.JPEG)
 sofia-solares.jpg | Selena
-![](https://github.com/JujuDel/DoppelGanger/blob/master/data/images/test-images/sofia-solares.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/data/images/celeb_mini/n00002238/n00002238_00000655.JPEG)
+![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/sofia-solares.jpg) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00002238_00000655.JPEG)
