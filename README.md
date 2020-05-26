@@ -94,8 +94,8 @@ Below are the computed doppelganger with the given input images.
 Input image | DoppelGanger
 :---:|:---:
 shashikant-pedwal.jpg | Amitabh Bachchan
-![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/shashikant-pedwal.jpg | height=256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000102_00000547.JPEG)
+<img height="256" alt="shashikant-pedwal.jpg" src="https://github.com/JujuDel/DoppelGanger/blob/master/examples/shashikant-pedwal.jpg"> | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000102_00000547.JPEG)
 sofia-solares.jpg | Selena
-![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/sofia-solares.jpg | height=256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00002238_00000655.JPEG)
+<img height="256" alt="sofia-solares.jpg" src="https://github.com/JujuDel/DoppelGanger/blob/master/examples/sofia-solares.jpg"> | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00002238_00000655.JPEG)
 me.jpg | Jake Johnson
-![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/me.jpg | height=256) | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000920_00000386.JPEG)
+<img height="256" alt="me.jpg" src="https://github.com/JujuDel/DoppelGanger/blob/master/examples/me.jpg"> | ![](https://github.com/JujuDel/DoppelGanger/blob/master/examples/n00000920_00000386.JPEG)
